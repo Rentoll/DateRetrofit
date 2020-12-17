@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitSample</string>
+    <string name="btnRequest">Get Request</string>
+    <string name="rbDate">Get Date</string>
+    <string name="rbIp">Get IP</string>
+    <string name="tvResult"> </string>
+</resources>
